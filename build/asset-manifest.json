@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anshpandey16/ninza/static/css/main.c4845a6b.css",
+    "main.js": "/anshpandey16/ninza/static/js/main.3fdd7820.js",
+    "static/js/453.81f383cb.chunk.js": "/anshpandey16/ninza/static/js/453.81f383cb.chunk.js",
+    "index.html": "/anshpandey16/ninza/index.html",
+    "main.c4845a6b.css.map": "/anshpandey16/ninza/static/css/main.c4845a6b.css.map",
+    "main.3fdd7820.js.map": "/anshpandey16/ninza/static/js/main.3fdd7820.js.map",
+    "453.81f383cb.chunk.js.map": "/anshpandey16/ninza/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4845a6b.css",
+    "static/js/main.3fdd7820.js"
+  ]
+}
